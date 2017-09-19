@@ -1,4 +1,4 @@
-require_relative "app.environment"
+require_relative "environment.rb"
 
 Environment.set
 
